@@ -1,4 +1,4 @@
-# Projeto: Cálculo de Mensalidade Escolar (Abordagem Funcional)
+# Trabalho 02 - Paradigma Funcional (Mensalidade Escolar)
 
 Este projeto é uma aplicação web para calcular os valores de mensalidades escolares de uma turma, aplicando regras de negócio como descontos, multas por atraso e teto de descontos.
 
