@@ -6,7 +6,7 @@ O objetivo principal é demonstrar a aplicação de conceitos de Programação F
 
 **Desenvolvido por:**
 * Anderson Nilton de Souza [@andersonniltondesouza-unidavi](https://github.com/andersonniltondesouza-unidavi)
-* Gabriel Wellington Renzi [@GabrielRenzi](https://github.com/GabrielRenzi)****
+* Gabriel Wellington Renzi [@GabrielRenzi](https://github.com/GabrielRenzi)
 ---
 
 ## Como Executar a Aplicação
